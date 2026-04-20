@@ -1,0 +1,24 @@
+# Environments
+env/
+venv/
+env-algogenie/
+AlgoX/env-algogenie/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables
+.env
+AlgoX/.env
+
+# Custom folders to ignore
+Project_Unstructured/
+AlgoX/temp/
+temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
